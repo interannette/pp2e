@@ -1,0 +1,1 @@
+Projects from [Python Playground](https://nostarch.com/python-playground-2nd-edition) with the [MadPy Book Club](https://madpy.com/bookclub/) in fall 2025
